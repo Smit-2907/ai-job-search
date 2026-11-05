@@ -121,3 +121,8 @@ company_research/*.json
 
 # Brainstorm mockups (superpowers visual companion) - never ship
 .superpowers/
+
+# Extra safety: block all personal resume files, PDFs, and exports from git
+*resume*
+*Resume*
+

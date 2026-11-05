@@ -2,72 +2,83 @@
 framework_version: 1.1.1
 ---
 
-# Candidate Profile
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all sections will be filled with your actual information -->
+# Candidate Profile: Smit Solanki
 
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Name:** Smit Solanki
+- **Location:** Vadodara, Gujarat, India
+- **Phone:** +91 97241 60841
+- **Email:** smitsolanki2609@gmail.com
+- **LinkedIn:** https://linkedin.com/in/smit-solanki
+- **GitHub:** https://github.com/Smit-2907
+- **Status:** MCA Final-Year Student / Actively Seeking Junior AI/ML, Backend, and Full-Stack Engineering roles
+- **Constraints:** Open to Hybrid/On-site in Vadodara/Gujarat; Relocation outside Gujarat requires compensation of at least ₹40,000–₹60,000 INR/month; Open to Remote worldwide.
 
 ### Languages
-<!-- Every language you can work in professionally, with your honest level. Used by the
-Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
-generation. Omit any language you don't actually work in - an undeclared language is treated as
-a hard no, not a gap to smooth over. -->
-
 | Language | Level | Notes |
 |----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| English | Professional working proficiency | Professional communication, documentation, technical collaboration |
+| Gujarati | Native | Native language |
+| Hindi | Native or bilingual proficiency | Fluent speaking and writing |
 
 ## Education
 
-| Degree | Period | Institution | Key Topics |
-|--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
-
-## Professional Experience
-
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
-
-<!-- Add more roles as needed -->
+| Degree | Period | Institution | Key Topics / Details |
+|--------|--------|-------------|----------------------|
+| Master of Computer Applications (MCA) | 2024–2026 | ITM SLS Baroda University | CGPA: 8.78. Focus on Python, Data Science, Machine Learning, Multi-Agent Systems |
+| Bachelor of Computer Applications (BCA) | 2021–2024 | St. Stephen's Institute of Business Management and Technology | SGPA: 7.59. Focus on Computer Science Fundamentals, DBMS, OOP |
+| Higher Secondary Certificate (HSC) | 2019–2021 | St. Joseph's High School | Commerce Stream |
 
 ## Independent Projects
-<!-- Projects outside of employment: freelance, open source, personal -->
-- **[PROJECT_NAME]**: [DESCRIPTION]
+
+- **TruthGuard 2.9 (Agentic AI Fact-Checking Platform)**:
+  - Multi-agent misinformation verification system combining BERT text representations, evidence retrieval pipelines, and reasoning.
+  - Implemented TF-IDF retrieval, similarity analysis, and explainable scoring for transparent content verification.
+  - Engineered asynchronous FastAPI backend services for concurrent evidence collection and automated verification workflows.
+
+- **LeadLense (AI-Powered Lead Intelligence Platform)**:
+  - Digital signal lead acquisition, data enrichment, and qualification pipelines converting raw web data into structured business prospects.
+  - Engineered modular FastAPI backend services for automated lead processing, prioritization, and AI-assisted scoring workflows.
+
+- **Jarvis (Intelligent AI Assistant)**:
+  - Extensible conversational AI assistant with NLP-driven intent recognition for context-aware query understanding.
+  - Built modular backend integrations supporting automated workflows, information retrieval, and extensible tooling.
+
+- **Recipe Recommendation System & n8n Automation Pipeline**:
+  - Content-based recommendation engine utilizing TF-IDF vectorization and cosine similarity for personalized recipe matching.
+  - Automated HTML scraping and preprocessing pipeline with n8n, structuring recipe data and reducing dataset creation time from hours to seconds.
+
+- **NeuroSync (Personalized Wellness Tracker for Neurodivergent Students)**:
+  - Streamlit wellness platform featuring NLP sentiment analysis for journal interpretation and dynamic mood habit tracking with Matplotlib/Seaborn.
 
 ## Technical Skills
 
-### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
+### Programming Languages
+- **Python** (Advanced): FastAPI, Streamlit, Scikit-learn, Pandas, NumPy, BERT, TF-IDF
+- **JavaScript & TypeScript** (Proficient): React, Next.js, Node.js
+- **SQL** (Proficient): MySQL, SQLite, PostgreSQL, Supabase
+- **Other Languages**: Java, C++, C, PHP, HTML5, CSS3, Tailwind CSS
 
-### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
+### Backend & Cloud Architecture
+- **Frameworks:** FastAPI, REST APIs, Asynchronous Processing (AsyncIO), Streamlit
+- **Automation & Pipelines:** n8n, Data Preprocessing, ETL, Scraping Pipelines
+- **Databases:** MySQL, SQLite, PostgreSQL, Supabase
 
-### Software & Tools
-- [TOOL_LIST]
+### AI, Machine Learning & NLP
+- **Generative AI & Agentic Systems:** LLMs, Agentic AI, Multi-Agent Systems, Prompt Engineering
+- **ML & NLP:** Natural Language Processing, BERT, TF-IDF, Cosine Similarity, Scikit-learn, Pandas, NumPy, Recommendation Systems
 
-## Publications
-<!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
+### Developer Tools & Environments
+- **Tools:** Git, GitHub, Docker, Linux, Jupyter Notebook, VS Code, Postman
 
-## Awards
-- [AWARD] - [EVENT] ([YEAR])
+## Leadership & Community
+- **Technical Team Member** - Explora Club, ITM SLS Baroda University: Led hands-on workshops and technical sessions introducing peers to programming and modern software tools.
+- **Hackathon Participant** - Illuminati Tech Fest, ITM SLS Baroda University.
+- **Active Community Member** - Google Developers Group (GDG) Vadodara and AWS Community Vadodara.
 
-## References
-- [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])
-
-More references available upon request.
+## Target Roles & Deal-Breakers
+- **Target Roles:** Junior AI/ML Engineer, Backend Software Engineer (Python/FastAPI), Full-Stack Developer (FastAPI + React/Next.js).
+- **Deal-Breakers:**
+  - Mandatory relocation outside Gujarat with compensation below ₹40k–₹60k/month.
+  - Unpaid internships or non-engineering roles mislabeled as tech roles.
+  - Roles requiring languages outside English, Hindi, and Gujarati.

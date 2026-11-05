@@ -16,39 +16,44 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 1. TruthGuard 2.9 (Multi-Agent Systems & Asynchronous Backend Engineering)
+**S:** Misinformation is pervasive online, and single-model classification struggles with nuance and lacks verifiable evidence.
+**T:** Architect an automated, multi-agent fact-checking platform capable of retrieving external evidence and producing explainable verification scores in real time.
+**A:** Designed a multi-agent workflow leveraging BERT embeddings and TF-IDF similarity to fetch relevant evidence documents. Implemented an asynchronous FastAPI backend to handle concurrent verification requests without blocking, and built explainable scoring logic so users understand why a claim is flagged.
+**R:** Achieved sub-second evidence retrieval and explainable evaluation output across diverse claim datasets, proving effective multi-agent orchestration.
+**Use for:** "Tell me about a complex project you built", "Experience with FastAPI/Async Python", "How do you apply AI/LLMs to real problems?"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. LeadLense (Data Pipelines & Modular Architecture)
+**S:** Businesses often struggle to convert raw public web signals into qualified, high-intent sales leads without manual effort.
+**T:** Build an automated lead intelligence engine that captures digital signals, enriches company data, and ranks potential prospects.
+**A:** Built modular data acquisition and enrichment pipelines in Python. Designed FastAPI endpoints for automated lead ingestion, prioritization algorithms, and structured scoring. Ensured modularity so future AI scoring models could plug directly into the pipeline.
+**R:** Automated the transformation of raw business signals into structured prospect records, reducing manual research time significantly.
+**Use for:** "Describe a data pipeline or backend API you designed", "How do you handle data preprocessing and enrichment?"
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 3. Automated Recipe Scraping & Recommendation (Automation & Information Retrieval)
+**S:** Manual dataset creation for content-based recommendation systems is tedious and time-consuming.
+**T:** Automate end-to-end data collection, parsing, and personalized recommendation based on user ingredient preferences.
+**A:** Created an automated n8n workflow to crawl, parse HTML, and structure raw web data into clean tabular records. Built a recommendation engine using TF-IDF vectorization and Cosine Similarity to calculate recipe similarity scores from user inputs.
+**R:** Reduced dataset generation time from hours to seconds and produced accurate, ranked recommendations based on arbitrary user ingredient sets.
+**Use for:** "How have you automated workflows?", "Explain a machine learning or recommendation algorithm you implemented."
 
-<!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+### 4. Explora Club Technical Mentorship (Leadership & Communication)
+**S:** Many junior students in college struggled with programming fundamentals and modern developer tools like Git, Linux, and Python.
+**T:** As a core Technical Team Member of Explora Club, bridge the knowledge gap through peer learning and workshops.
+**A:** Organized and delivered interactive, hands-on workshops introducing peers to programming basics, version control, and practical project development. Provided one-on-one debugging assistance.
+**R:** Trained over 50+ students across multiple sessions, sparking active participation in university hackathons and tech fests.
+**Use for:** "Describe a time you demonstrated leadership", "How do you communicate technical concepts to non-experts?"
 
 ## Common Tough Questions
 
-### "Why did you leave [previous company]?"
-> [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
+### "Tell me about yourself."
+> "I am an MCA final-year student specializing in AI, Machine Learning, and Python backend engineering. Over the past few years, I've focused on building practical, full-stack and agentic applications—such as TruthGuard 2.9, a multi-agent fact-checking platform using FastAPI and BERT, and LeadLense, a lead intelligence engine. I love working at the intersection of robust backend APIs and modern AI tooling, and I'm looking for a junior engineering role where I can contribute to shipping real-world software."
 
-### "You don't have [specific skill/experience]."
-> [PREPARE YOUR ANSWER - acknowledge the gap, bridge to adjacent experience, show willingness to learn]
+### "You don't have extensive corporate/industry experience yet."
+> "While I am completing my MCA, I have approached my software development with an engineering-first mindset. Rather than just building toy notebooks, I architect complete systems: asynchronous FastAPI backends, modular data pipelines, Docker containers, and clean relational schemas. I learn very quickly, adapt to modern stacks, and am ready to hit the ground running with strong fundamentals in Python, AI, and backend development."
 
-### "Where do you see yourself in 5 years?"
-> [PREPARE YOUR ANSWER - show ambition aligned with the role's growth path]
+### "Where do you see yourself in 3–5 years?"
+> "In 3 to 5 years, I see myself as a strong Mid-level to Senior Software/AI Engineer, having mastered production-grade backend and ML systems. I want to own core services, mentor upcoming juniors, and contribute to architectural decisions around agentic systems and scalable web applications."
 
 ### "What's your biggest weakness?"
 > [PREPARE YOUR ANSWER - genuine weakness with concrete mitigation strategy]

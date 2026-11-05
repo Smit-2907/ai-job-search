@@ -60,9 +60,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Python, FastAPI, REST APIs, Machine Learning, NLP, BERT, TF-IDF, Scikit-learn, Pandas, NumPy, Agentic AI, Multi-Agent Systems, Streamlit, SQL, Git
+**Moderate match areas:** React, Next.js, TypeScript, JavaScript, Docker, PostgreSQL, Supabase, n8n, Java, C++
+**Weak match areas:** C#, .NET, Go, Rust, native mobile iOS/Android (Swift/Kotlin), legacy mainframe systems
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -74,9 +74,9 @@ Does work history align with what they're looking for? Match on the function and
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Junior AI/ML engineering, Python backend development, REST API design, Agentic workflows, NLP and text processing pipelines
+**Moderate:** Full-stack web development (React/Next.js with FastAPI backend), automated data scraping and preprocessing
+**Entry-level:** Senior architectural ownership, multi-region distributed cloud infrastructure at enterprise scale
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -107,19 +107,19 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Launch a career as an AI/ML Engineer or Backend Software Engineer in a high-growth product team.
+- Deepen hands-on expertise in production AI systems, LLM orchestration, and scalable asynchronous services.
+- Progress from Junior to Mid-level engineer by taking ownership of critical backend/AI features.
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: Building new backend services, developing agentic workflows, model experimentation, optimizing data pipelines, collaborating on architecture.
+- Tasks that drain: Repetitive manual data entry, pure maintenance of legacy monolithic systems without modern tooling, non-technical support work.
+- Non-task factors: Autonomy, merit-driven engineering culture, supportive mentorship, and modern tech stacks.
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Needs adequate compensation: if relocating outside Gujarat, minimum threshold is ₹40,000–₹60,000 INR/month to comfortably cover living expenses. Within Gujarat or Remote, more flexible.
+- **Flexibility**: Open to Remote, Hybrid, or On-site.
+- **Professional development**: Prioritizes learning, working with modern stacks (Python, FastAPI, modern AI/ML tooling), and mentorship.
 
 ### 6. Salary Benchmark (Optional)
 
